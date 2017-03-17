@@ -115,8 +115,17 @@ namespace WindowsFormsApplication1
                 lbLines.Items.Clear();
                 Buses bus = busLines.ElementAt(lbBuses.SelectedIndex);
                 loadLines(bus);
-                tbAveragePerLine.Text = bus.averagePriceOfLines().ToString();
-                tbMostExpensiveLine.Text = bus.mostExpensiveLine().ToString();
+                if (lbLines.Items.Count == 0)
+                {
+                    tbMostExpensiveLine.Text = "Нема линии за овој автобус!";
+                    tbAveragePerLine.Text = "Нема линии за овој автобус!";
+                }
+                else
+                {
+                    tbAveragePerLine.Text = bus.averagePriceOfLines().ToString();
+                    tbMostExpensiveLine.Text = bus.mostExpensiveLine().ToString();
+                }
+         
 
             }
             else {

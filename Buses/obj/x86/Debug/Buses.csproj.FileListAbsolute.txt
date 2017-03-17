@@ -1,0 +1,9 @@
+C:\Users\Miki\documents\visual studio 2010\Projects\Buses\Buses\bin\Debug\Buses.exe
+C:\Users\Miki\documents\visual studio 2010\Projects\Buses\Buses\bin\Debug\Buses.pdb
+C:\Users\Miki\documents\visual studio 2010\Projects\Buses\Buses\obj\x86\Debug\WindowsFormsApplication1.AddBus.resources
+C:\Users\Miki\documents\visual studio 2010\Projects\Buses\Buses\obj\x86\Debug\WindowsFormsApplication1.AddLine.resources
+C:\Users\Miki\documents\visual studio 2010\Projects\Buses\Buses\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Miki\documents\visual studio 2010\Projects\Buses\Buses\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Miki\documents\visual studio 2010\Projects\Buses\Buses\obj\x86\Debug\Buses.csproj.GenerateResource.Cache
+C:\Users\Miki\documents\visual studio 2010\Projects\Buses\Buses\obj\x86\Debug\Buses.exe
+C:\Users\Miki\documents\visual studio 2010\Projects\Buses\Buses\obj\x86\Debug\Buses.pdb
